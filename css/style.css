@@ -2289,6 +2289,33 @@ partners
 services
 
 ------------------------------------------- */
+.bg-manufacture {
+    background-image: url(https://img.freepik.com/premium-photo/engineer-focused-assembling-advanced-aerial-drone-technology_100209-8055.jpg?w=1060);
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-mapping {
+    background-image: url(https://img.freepik.com/free-photo/view-land-plot-real-estate-business-development_23-2149916717.jpg?t=st=1714736584~exp=1714740184~hmac=1a415ed86237049241ac0288219d38f6c77b5d90ee671a2ec032b6ee225a7e8b&w=996);
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-training {
+    background-image: url(https://img.freepik.com/free-photo/male-graphic-designers-showing-pictures-his-coworkers-camera_1170-985.jpg?t=st=1714736926~exp=1714740526~hmac=a587ee6b0d6aacc4573bb17fb537b3c9cf58ebf3b6dd2d872b82f251806eac71&w=996   );
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
+
+.bg-monitoring {
+    background-image: url(https://img.freepik.com/premium-photo/person-using-drone-his-garden_697880-9645.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
+
+
 .mil-complex-text {
   display: -webkit-box;
   display: -ms-flexbox;
